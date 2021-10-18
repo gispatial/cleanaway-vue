@@ -1,0 +1,44 @@
+{
+    "data": [
+        {
+            "name": "DASHBOARD",
+            "meta": ["general"],
+            "children": [
+                {
+                    "name": "Menu 01",
+                    "to": "/#"
+                },
+                {
+                    "name": "Menu 02",
+                    "to": "/#"
+                },
+                {
+                    "name": "Menu 03",
+                    "to": "/#"
+                },
+                {
+                    "name": "Menu 04",
+                    "to": "/#"
+                }
+            ]
+        },
+        {
+            "name": "Settings",
+            "meta": ["support"],
+            "children": [
+                {
+                    "name": "Settings 01",
+                    "href": "http://localhost:8081/"
+                },
+                {
+                    "name": "Settings 02",
+                    "href": "http://localhost:8081/"
+                },
+                {
+                    "name": "Settings 03",
+                    "to": "/#"
+                }
+            ]
+        }
+    ]
+}

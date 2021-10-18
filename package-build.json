@@ -1,0 +1,28 @@
+{
+    "name": "cleanaway-vue",
+    "version": "3.8.1",
+    "homepage": "https://rizq.us/v2",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/gispatial/cleanaway-vue.git"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/gispatial/cleanaway-vue/issues"
+    },
+    "keywords": [
+      "primevue",
+      "vue",
+      "ui framework",
+      "component framework",
+      "ui library",
+      "component library",
+      "material",
+      "bootstrap"
+    ],
+    "web-types": "./web-types.json",
+    "vetur": {
+      "tags": "./vetur-tags.json",
+      "attributes": "./vetur-attributes.json"
+    }
+  }
