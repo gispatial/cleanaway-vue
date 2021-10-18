@@ -1,20 +1,5 @@
 <template>
     <div class="layout-wrapper" :class="containerClass">
-        <div class="layout-news" v-if="newsActive">
-            <div class="layout-news-container">
-                <a href="https://www.primefaces.org/layouts/atlantis-vue" class="layouts-news-mockup" target="_blank">
-                    <img class="layouts-news-mockup-image" src="./assets/images/topbar-atlantis-device.png">
-                </a>
-                <a href="https://www.primefaces.org/layouts/atlantis-vue" target="_blank" tabindex="-1" style="text-decoration: none" class="layout-news-button">
-                    LEARN MORE
-                    <i class="pi pi-angle-right"></i>
-                </a>
-                <a tabindex="0" class="layout-news-close" @click="hideNews">
-                    <i class="pi pi-times"></i>
-                </a>
-            </div>
-        </div>
-
         <app-topbar @menubutton-click="onMenuButtonClick" @change-theme="changeTheme" :theme="theme" />
         <app-menu :active="sidebarActive" />
         <app-configurator @change-theme="changeTheme" :theme="theme" />
