@@ -1,10 +1,10 @@
 # Cleanaway-Vue
 Developed with Vue Cli with Onsen UI.
 <p>
-  <img src="" width="100%">
+  <img src="https://github.com/gispatial/cleanaway-vue/blob/rizqbazaar/01.png" width="100%">
   </p>
 <p>
-  <img src="" width="100%">
+  <img src="https://github.com/gispatial/cleanaway-vue/blob/rizqbazaar/02.png" width="100%">
   </p>
 
 ## Howto
