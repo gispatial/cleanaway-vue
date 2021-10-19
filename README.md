@@ -1,5 +1,5 @@
-# Cleanaway-Vue
-Developed with Vue Cli with Onsen UI.
+# Cleanaway-Vue with Onsen UI
+Developed using Vue Cli and Onsen UI. The core library is agnostic framework. Vue bindings Onsen UI (VueOnsen) provide Vue 2 components and directives that wrap the core Web Components and expose a Vue-like API to interact with them.
 <p>
   <img src="https://github.com/gispatial/cleanaway-vue/blob/rizqbazaar/01.png" width="100%">
   </p>
